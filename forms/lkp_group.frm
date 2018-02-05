@@ -1,0 +1,16 @@
+dataSource:"db:/svy_framework/sec_group",
+extendsID:"-1",
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"BFB09D10-3C53-4895-859A-6D3D7BB2FB71"
+}
+],
+name:"lkp_group",
+showInMenu:true,
+size:"640,480",
+styleName:"leaf_style",
+typeid:3,
+uuid:"3D38B36A-0E83-44DC-9B87-45F13EAFC7F8"
